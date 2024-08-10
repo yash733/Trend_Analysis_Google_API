@@ -1,5 +1,5 @@
 ## Situation:<br>
-Faced with the need to track and analyze global job market trends, particularly in the data engineering field, across 261 countries.<br>
+Faced with the need to track and analyze global job market trends, across 261 countries.<br>
 
 ## Task:<br>
 Develop a real-time dashboard to identify and present the most searched job titles and related keywords, helping users stay informed about market demands and emerging trends.<br>
